@@ -1,0 +1,9 @@
+package com.rbi.parent;
+public class Parent{
+	public void m1(){
+		System.out.println("class Parent is Public - m1 method is public");
+	}
+	protected void m2(){
+				System.out.println("class Parent is Public - m2 method is protected");
+	}
+}
