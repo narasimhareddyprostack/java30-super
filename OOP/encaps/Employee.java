@@ -44,6 +44,6 @@ public class Employee {
         e1.setEname("Rahul");
         e1.setEsal(45000.00);
         e1.setEmail("rg@gmail.com");
-        System.out.println("Employee Id:"+e1.getEid()+"-Employee Name"+e1.getEname());
+        System.out.println("Employee Id::::"+e1.getEid()+"-Employee Name"+e1.getEname());
     }
 }
