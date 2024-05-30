@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataTypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Default Values" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Identifiers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IterativeSt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ref Data types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commandlineargs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/controlflow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterativest2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/operators" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
