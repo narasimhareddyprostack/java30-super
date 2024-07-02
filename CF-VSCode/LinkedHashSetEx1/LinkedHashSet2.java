@@ -1,8 +1,5 @@
 import java.util.LinkedHashSet;
 import java.util.Iterator;
-
-
-
 class Test{
     public static void main(String[] args) {
         LinkedHashSet<Integer> eids=new LinkedHashSet<Integer>();
@@ -11,6 +8,7 @@ class Test{
         eids.add(103);
         eids.add(null);
         eids.add(104);
+        
         for(int i=0;i<=eids.size()-1;i++){
             System.out.println(eids[i]);
         }
