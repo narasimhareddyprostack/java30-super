@@ -3,7 +3,6 @@ package FI4;
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.Predicate;
-
 public class TestImpl3 {
     public static void main(String[] args) {
         ArrayList<String> enames=new ArrayList<String>();
